@@ -3,7 +3,7 @@
 #  Module 2
 #  Jose F Naranjo
 
-For this project, I used JavaScript to work on a shopping list app. The functionalities of the app include adding new items, edit item, delete item, clear all items, and search for an item.
+I used modern JavaScript to work on a shopping list app. The application encompasses diverse functionalities, including the seamless addition of new items, simple editing, quick deletion, convenient clearing of the entire list, and an item search capability.
 
 Requirements:
 
@@ -12,7 +12,7 @@ Requirements:
 [x] Use of external stylesheet (not inline)
 [x] No code duplication
 [x] Has add item button
-[x] Has clear button
+[x] Has clear-items button
 [x] Has search bar/section
 [x] Can edit an item
 [x] Can delete an item
